@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SerialMiller aka John Miller
 - 👀 I’m interested in many things but let's arbitrarily list data science, healthcare, insurance, soccer, poker, and New York City
-- 🌱 I’m currently working at J2 Health as a Data Associate
+- 🌱 I work @ J2 Health as a Data Associate
 - 📫 You can send emails to johnmiller1997@gmail.com
 
 <!---
