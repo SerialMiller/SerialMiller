@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SerialMiller aka John Miller
-- 👀 I’m interested in many things but let's arbitrarily list data science, healthcare, insurance, soccer, poker, and New York City
+- 👀 I’m interested learning more about data science and poker in 2025
 - 🌱 I work @ J2 Health as a Data Associate
 - 📫 You can send emails to johnmiller1997@gmail.com
 
