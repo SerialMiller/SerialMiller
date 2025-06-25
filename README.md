@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SerialMiller aka John Miller
-- 👀 Interested in Data Engineering, Soccer, and Poker
+- 👀 Interested in Data, Soccer, and Poker
 - 🌱 I work @ J2 Health as a Data Associate
 - 📫 You can send emails to johnmiller1997@gmail.com
 
